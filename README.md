@@ -11,7 +11,7 @@ This was my website and the idea was also originally brought up by me and my fri
 link to the YouTube video:-
 
 <p align="left">
-    <a href="https:/ajaysh1.github.io/VishwaVidyalay/"><img alt="VishwaVidyalaya"  src="https://github.com/animesh30-dev/VishwaVidyalaya_main/assets/146109979/4ef04d14-20ba-449f-9e70-06527183ec61" width="282" height="72"/></a>
+    <a href="https://ajaysh1.github.io/VishwaVidyalay/"><img alt="VishwaVidyalaya"  src="https://github.com/animesh30-dev/VishwaVidyalaya_main/assets/146109979/4ef04d14-20ba-449f-9e70-06527183ec61" width="282" height="72"/></a>
     <p>
      
 
@@ -21,7 +21,7 @@ link to the YouTube video:-
 
 ## Also
 
-As I m learining/exploring some other languages like ,JS,react Js etc ,so I will try to update the website with time ,and 'll try to make it more useful to the users.
+As I m learining/exploring some other languages like JS,Python,MongoDb etc ,so I will try to update the website with time ,and 'll try to make it more useful for the users.
 
 
 ## Thank you for visiting 
