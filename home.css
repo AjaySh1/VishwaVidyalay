@@ -148,14 +148,14 @@ opacity: .5;
 .img:hover .overlay{
 opacity:1;
 } */ 
-/* Add these styles for reddish opacity on hover */
+/
 .content1:hover,
 .content2:hover,
 .content3:hover {
     background-color: rgba(255, 119, 29, 0.7); /* Use rgba to set opacity */
 }
 
-/* Other styles remain the same */
+
 .content1 {
     position: absolute;
     top: 55%;
@@ -238,17 +238,13 @@ opacity:1;
   border-bottom: 2px solid #e74c3c; /* Change border color on focus */
 }
 
-/* Add a subtle box shadow on hover for a lifted effect */
+
 .search-bar:hover {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
 
-/* Style placeholder text */
 .search-bar::placeholder {
-  color: #777; /* Placeholder text color */
+  color: #777; 
 }
-
-/* Style the search button */
 .search-button {
   padding: 10px;
   font-size: 18px;
@@ -257,11 +253,11 @@ opacity:1;
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  transition: background-color 0.3s; /* Smooth transition for background color */
+  transition: background-color 0.3s; 
 }
 
 .search-button:hover {
-  background-color: #2980b9; /* Darker blue on hover */
+  background-color: #2980b9; 
 }
 nav ul li a {
   color: #fff;
