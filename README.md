@@ -6,7 +6,7 @@
 
  
 ## This was my first website which was built using HTML and CSS, and now I would be diving deeper into the world of development. The link to the project demonstration video is given below.
-This was my website and the idea was also originally brought up by me and my friend <a href="https://github.com/animesh30-dev"> Animesh Mishra </a>. This is a website about searching and exploring different colleges in India. Currently, it just has the IITs, NITs & IIITs from India but we are looking forward to adding more features to this.
+This was my website and the idea was also originally brought up by me and my friend  Animesh Mishra . This is a website about searching and exploring different colleges in India. Currently, it just has the IITs, NITs & IIITs from India but we are looking forward to adding more features to this.
 
 link to the YouTube video:-
 
