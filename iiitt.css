@@ -81,10 +81,11 @@ img{
     height:200px;
 }
 .nit{
-    display: grid;
+    display: flex;
     grid-template-columns: auto auto auto;
     padding: 10px;
-    
+    flex-wrap: wrap;
+    justify-content: space-around;
     
 }
 .nit_name{

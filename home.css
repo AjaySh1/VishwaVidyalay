@@ -10,6 +10,7 @@ body {
   height: 50%;
   background-repeat: no-repeat;
   background-color: rgb(0, 0, 0);
+  position: relative;
   
 }
 .s{
@@ -20,7 +21,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  
+ 
 }
 .left
 {  margin-left: 45px;
@@ -74,8 +75,7 @@ li {
 
 .trd{
 display: flex;
-justify-content: space-evenly;
-flex-direction: row;
+justify-content: space-around;
 flex-wrap: wrap;
 width: 80%;
 margin: 0 auto;
@@ -148,7 +148,7 @@ opacity: .5;
 .img:hover .overlay{
 opacity:1;
 } */ 
-/
+
 .content1:hover,
 .content2:hover,
 .content3:hover {
@@ -240,7 +240,8 @@ opacity:1;
 
 
 .search-bar:hover {
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)
+};
 
 .search-bar::placeholder {
   color: #777; 
